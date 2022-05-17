@@ -47,7 +47,7 @@ body {
   letter-spacing: 0.03em;
 }
 
-.logo-header {
+.logo--header {
   color: var(--title-color);
 }
 
@@ -193,7 +193,7 @@ body {
 .footer {
   background-color: var(--background-color-dark);
 }
-.logo-footer {
+.logo--footer {
   color: var(--primary-color);
 }
 
